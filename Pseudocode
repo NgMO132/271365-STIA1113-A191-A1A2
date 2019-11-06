@@ -1,0 +1,33 @@
+Start
+
+Output “Enter Car Price (RM):”
+Input Car Price
+If user enters car price less than RM30000, the user is required to enter car price again.
+
+Output “Enter Down Payment (RM):”
+Input Down Payment
+If user enters down payment less than RM0, the user is required to enter down payment again.
+
+Output “Enter Loan Period (Years):”
+Input Loan Period
+If user enters loan period less than 5 years or more than 9 years, the user is required to enter loan period again.
+
+Output “Enter Interest Rate (%):”
+Input Interest Rate
+If user enters interest rate less than 4% or more than 7%, the user is required to enter interest rate again.
+
+Calculate the following by using the formula:
+Monthly Repayment = Principal / 12
+Output Monthly Repayment (RM)
+
+totalLoanPayment = (CarPrice - DownPayment) + (Interest * LoanPeriod)
+
+Principal = (CarPrice - DownPayment) / LoanPeriod + Interest;
+
+Interest = (CarPrice - DownPayment) * InterestRate / 100
+
+Balance = totalLoanPayment - totalPrincipal
+
+Display Car Loan Table
+
+End
