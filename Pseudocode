@@ -1,4 +1,4 @@
-Start
+`Start
 
 Output “Enter Car Price (RM):”
 Input Car Price
@@ -30,4 +30,4 @@ Balance = totalLoanPayment - totalPrincipal
 
 Display Car Loan Table
 
-End
+End`
