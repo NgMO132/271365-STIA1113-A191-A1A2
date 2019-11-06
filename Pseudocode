@@ -1,4 +1,4 @@
-`Start
+Start
 
 Output “Enter Car Price (RM):”
 Input Car Price
@@ -26,8 +26,8 @@ Principal = (CarPrice - DownPayment) / LoanPeriod + Interest;
 
 Interest = (CarPrice - DownPayment) * InterestRate / 100
 
-Balance = totalLoanPayment - totalPrincipal
+Balance = totalLoanPayment – totalPrincipal
 
-Display Car Loan Table
+Display output Years, Principal (RM), Interest (RM), Balance (RM) in a car loan table
 
-End`
+End
